@@ -6,9 +6,9 @@
     "license": "MIT",
     "require": {
         "php": ">=5.4.0",
-        "guzzlehttp/guzzle": "~5.0",
-        "guzzlehttp/guzzle-services": "~0.5.0",
-        "guzzlehttp/oauth-subscriber": "~0.2"
+        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle-services": "^1.1",
+        "guzzlehttp/oauth-subscriber": "^0.3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "~4"
@@ -17,6 +17,10 @@
         {
             "name": "Richard van den Brand",
             "email": "richard@vandenbrand.org"
+        },
+        {
+            "name": "Iain Mullan",
+            "email": "iain.mullan@gmail.com"
         }
     ],
     "autoload": {
