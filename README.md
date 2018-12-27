@@ -1,3 +1,6 @@
+Notice: for personal use only, just needed those 2 PR's to be merged :-)
+
+
 ## Discogs Api
 
 [![Build Status](https://secure.travis-ci.org/ricbra/php-discogs-api.png)](http://travis-ci.org/ricbra/php-discogs-api)
